@@ -7,4 +7,5 @@ import (
 
 func main() {
 	fmt.Println(testmod.Hi("张乘辉"))
+	fmt.Println()
 }

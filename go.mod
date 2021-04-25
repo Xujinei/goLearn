@@ -1,4 +1,4 @@
-module test.com
+module github.com/Xujinei/goLearn
 
 go 1.16
 
