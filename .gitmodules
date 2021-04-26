@@ -1,3 +1,6 @@
 [submodule "testmod"]
 	path = testmod
 	url = https://github.com/objcoding/testmod.git
+[submodule "subModule"]
+	path = subModule
+	url = git@github.com:Xujinei/subModule.git
