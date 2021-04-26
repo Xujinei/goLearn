@@ -1,11 +1,12 @@
 package main
 
 import (
-"fmt"
-"github.com/objcoding/testmod"
+	"fmt"
+	"github.com/Xujinei/goLearn/service"
+	"github.com/objcoding/testmod"
 )
 
 func main() {
-	fmt.Println(testmod.Hi("张乘辉"))
-	fmt.Println()
+	fmt.Println(testmod.Hi("nn"))
+	service.SayHi("name")
 }
